@@ -1,4 +1,4 @@
-# 기업의 채용 어시스턴트 PICK UP <img src="./public/images/logo.png" width="100" height="auto" align="right">
+# 기업의 채용 어시스턴트 PICK UP ![Image](https://github.com/user-attachments/assets/5ad0539c-a6f6-4517-b558-244f6ce5566c)
 
 
 ## 📌 프로젝트 소개

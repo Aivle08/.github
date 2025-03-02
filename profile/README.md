@@ -1,6 +1,4 @@
 <h1 align="center">기업의 채용 어시스턴트 PICK UP <img src="https://github.com/user-attachments/assets/5ad0539c-a6f6-4517-b558-244f6ce5566c"  width="115" height="auto"/></h1>
-<br/>
-
 ---
 <h2 align="center">📌 프로젝트 소개</h2>
 
